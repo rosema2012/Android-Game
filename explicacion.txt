@@ -1,0 +1,5 @@
+Explicaciones en el video del juego:
+
+Esta hecho con java en Android studio.
+
+Y tiene cierto retoque digital con After effects 
